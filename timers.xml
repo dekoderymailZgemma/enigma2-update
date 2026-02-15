@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+
+<timers>
+	<timer begin="1731009720" end="1731013800" marginBefore="180" eventBegin="1731009900" eventEnd="1731013500" marginAfter="300" hasEndTime="True" serviceref="1:0:1:3ADB:514:13E:820000:0:0:0:" eit="19677" repeated="0" rename_repeat="1" name="Ojciec Mateusz 32 (odc. 2)" description="Policjanci badają sprawę kradzieży laptopa, która jest powiązana z zamordowaniem dziennikarza. Śledztwo oficjalnie prowadzi komenda sandomierska." afterevent="auto" disabled="0" justplay="0" always_zap="0" descramble="1" record_ecm="0" isAutoTimer="1">
+		<log code="500" time="1731006891">[AutoTimer] Try to add new timer based on AutoTimer Ojciec Mateusz 32 (odc. 2).</log>
+		<log code="509" time="1731006891">[AutoTimer] Timer start on: Thu Nov  7 20:02:00 2024</log>
+	</timer>
+</timers>
