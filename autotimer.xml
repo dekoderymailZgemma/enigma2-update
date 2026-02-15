@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<autotimer version="8" nextTimerId="2">
-
- <timer name="Ojciec Mateusz 32 (odc. 2)" match="Ojciec Mateusz 32 (odc. 2)" enabled="yes" id="1">
-  <serviceref>1:0:1:3ADB:514:13E:820000:0:0:0:</serviceref> <!-- TVP 1 HD -->
-  <include where="dayofweek">3</include>
- </timer>
-
-</autotimer>
